@@ -1,7 +1,7 @@
 import React from 'react';
-import code from '../assets/scTafHp.png';
+import code from '../assets/700.png';
 import portfolio from '../assets/scportfolio.png'
-import vista from '../assets/scbuenavista.png'
+import vista from '../assets/BvBrandBrownNoBG.png'
 
 const Works = () => {
   return (
@@ -22,7 +22,7 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' bg-[#0a192f] text-lg font-bold text-white tracking-wider'>
-                Trill Art Factory
+                    Trill Art Factory
               </span>
               <p className='ml-9'>An E-Commerce store built with Bootsrap</p>
               <div className='pt-8 text-center'>
@@ -48,7 +48,7 @@ const Works = () => {
               <span className=' text-lg font-bold text-white tracking-wider'>
                 Portfolio Page
               </span>
-              <p className='text-center'>A web application built with React and Mongodb</p>
+              <p className='text-center'>Portfolio page built with React</p>
               <div className='pt-8 text-center'>
                 <a target='_blank' rel='noreferrer' href='https://github.com/brettman1/brett-starrett-portfolio'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
@@ -60,14 +60,14 @@ const Works = () => {
           </div>
           <div
             style={{ backgroundImage: `url(${vista})` }}
-            className='shadow-lg shadow-[#040c16] group container rounded-md flex mx-auto content-div'
+            className='bg-[#000] shadow-lg shadow-[#040c16] group container rounded-md flex mx-auto content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                Portfolio Page
+               Buena Vista Safari
               </span>
-              <p className='text-center ml-6'>A web application built with React and Mongodb</p>
+              <p className='text-center ml-6'>A safari tour webpage HTML, CSS & Javascript</p>
               <div className='pt-8 text-center'>
                 <a href='https://github.com/brettman1/brett-starrett-portfolio'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
