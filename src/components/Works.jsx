@@ -69,7 +69,7 @@ const Works = () => {
               </span>
               <p className='text-center ml-6'>A safari tour webpage HTML, CSS & Javascript</p>
               <div className='pt-8 text-center'>
-                <a target='_blank' rel='noreferrer' href='https://github.com/brettman1/brett-starrett-portfolio'>
+                <a target='_blank' rel='noreferrer' href='https://github.com/brettman1/buena-vista-safari'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
