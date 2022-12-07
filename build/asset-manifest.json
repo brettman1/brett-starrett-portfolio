@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83d64b70.css",
+    "main.js": "/static/js/main.ce2453e8.js",
+    "static/media/700.png": "/static/media/700.6a3acefed24031669a57.png",
+    "static/media/BvBrandBrownNoBG.png": "/static/media/BvBrandBrownNoBG.53f33564b50a627d3c3f.png",
+    "static/media/scportfolio.png": "/static/media/scportfolio.a4230243d0f0ac48017d.png",
+    "static/media/blueWhite.jpg": "/static/media/blueWhite.6772c7286dd4710a8aff.jpg",
+    "index.html": "/index.html",
+    "main.83d64b70.css.map": "/static/css/main.83d64b70.css.map",
+    "main.ce2453e8.js.map": "/static/js/main.ce2453e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83d64b70.css",
+    "static/js/main.ce2453e8.js"
+  ]
+}

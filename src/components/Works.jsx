@@ -1,6 +1,6 @@
 import React from 'react';
 import code from '../assets/700.png';
-import portfolio from '../assets/scportfolio.png'
+import coverLetter from '../assets/cl.png'
 import vista from '../assets/BvBrandBrownNoBG.png'
 
 const Works = () => {
@@ -40,17 +40,17 @@ const Works = () => {
             </div>
           </div>
           <div
-            style={{ backgroundImage: `url(${portfolio})` }}
+            style={{ backgroundImage: `url(${coverLetter})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-                Portfolio Page
+                Cover Letter Generator
               </span>
-              <p className='text-center'>Portfolio page built with React</p>
+              <p className='text-center'>Built with React and GPT-3</p>
               <div className='pt-8 text-center'>
-                <a target='_blank' rel='noreferrer' href='https://github.com/brettman1/brett-starrett-portfolio'>
+                <a target='_blank' rel='noreferrer' href='https://create-cover-letter-g1afdbsar-brettman1.vercel.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
@@ -65,11 +65,11 @@ const Works = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col'>
               <span className=' text-lg font-bold text-white tracking-wider'>
-               Buena Vista Safari
+                Buena Vista Safari
               </span>
               <p className='text-center ml-6'>A safari tour webpage HTML, CSS & Javascript</p>
               <div className='pt-8 text-center'>
-                <a href='https://github.com/brettman1/brett-starrett-portfolio'>
+                <a target='_blank' rel='noreferrer' href='https://github.com/brettman1/brett-starrett-portfolio'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
